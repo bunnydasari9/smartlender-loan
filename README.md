@@ -41,6 +41,7 @@ Improve decision accuracy
 Minimize lending risks
 Speed up loan approvals
 
+
 🚀**Key Features**
 **Feature                                         	Description**
 ✅ Loan Eligibility                              Prediction	Predicts loan approval or rejection instantly
